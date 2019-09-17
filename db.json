@@ -205,7 +205,7 @@
 	"scbt": null,
 	"ipp": null,
 	"ipbt": null,
-	"pp": false,
+	"pp": true,
 	"ppbt": null,
 	"minua": 0.0001,
 	"maxua": 20,
