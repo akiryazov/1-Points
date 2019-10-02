@@ -454,7 +454,7 @@
 		}
 	],
 	"audiences": [{
-		"audienceId": 876,
+		"id": 876,
 		"audienceName": "Test Ofer",
 		"description": null,
 		"authorName": "ofer",
