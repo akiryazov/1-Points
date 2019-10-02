@@ -453,5 +453,30 @@
 	"minia": 5,
 	"maxia": 10000,
 	"cdc": null
+}],
+	audiences: [{
+	"audienceId": 876,
+	"audienceName": "Test Ofer",
+	"description": null,
+	"authorName": "ofer",
+	"brandId": 90,
+	"priority": 1,
+	"status": 2,
+	"audienceType": 0,
+	"humanReadableDescription": "Users for whom 'cjmRetentionBehaviorModel' event happened and whose 'accountAlert_LastAlertType' is (ACCOUNT_ABOVE)  ",
+	"filter": "{\"filterType\":1,\"eventFilter\":{\"eventTypeId\":49,\"eventName\":\"cjmRetentionBehaviorModel\",\"operator\":0},\"properties\":[{\"propertyId\":382,\"propertyName\":\"accountAlert_LastAlertType\",\"propertyTypeId\":2,\"operation\":0,\"operand\":[\"15873\"]}]}",
+	"campaignsData": "[]",
+	"isManual": false,
+	"splitId": 56,
+	"activationDate": null,
+	"expiryDate": null,
+	"scheduledAudienceRuleType": null,
+	"rrule": null,
+	"cron": null,
+	"relativePeriod": null,
+	"startTime": null,
+	"isUserTimezone": null,
+	"executeOnce": null,
+	"hasExternalUsersList": null
 }]
 }
